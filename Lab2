@@ -1,0 +1,1 @@
+dotnet new console -n Lab2 --use-program-maindotnet sln add Lab2/Lab2.csproj
